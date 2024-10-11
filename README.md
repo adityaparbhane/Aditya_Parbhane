@@ -8,8 +8,8 @@ I have created the LinkedIn AI Message Generator chrome extension where, when us
 
 ## Demo
 
-Insert gif or link to demo
-https://github.com/adityaparbhane/Aditya_Parbhane/issues/1#issue-2580655383
+
+[https://github.com/adityaparbhane/Aditya_Parbhane/issues/1#issue-2580655383](https://github.com/user-attachments/assets/fbd41369-0fe7-4609-b00a-a485eb3ba572)
 
 ## Features
 
