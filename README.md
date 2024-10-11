@@ -7,9 +7,7 @@ I have created the LinkedIn AI Message Generator chrome extension where, when us
 
 
 ## Demo
-
-
-[https://github.com/adityaparbhane/Aditya_Parbhane/issues/1#issue-2580655383](https://github.com/user-attachments/assets/fbd41369-0fe7-4609-b00a-a485eb3ba572)
+https://github.com/user-attachments/assets/97f849c6-3d83-4c1f-8be5-2f191327e7be
 
 ## Features
 
